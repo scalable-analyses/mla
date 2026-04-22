@@ -68,7 +68,7 @@ $$M = N = K \in \{256,\ 512,\ 1024,\ 2048,\ 4096,\ 8192\}$$
 
 b) Fix the matrix size at `2048 × 2048 × 2048`, as well as `512 × 512 × 512`, and benchmark all tile shape combinations (27 total):
 
-$$m\_tile,\ n\_tile,\ k\_tile\ \in \{32,\ 64,\ 128\}$$
+$$m\_{tile},\ n\_{tile},\ k\_{tile}\ \in \{32,\ 64,\ 128\}$$
 
 **Visualize** your results as a **heatmap** with `m_tile` on one axis and `n_tile` on the other, fixing `k_tile = 64`.
 
