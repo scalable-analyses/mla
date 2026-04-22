@@ -13,6 +13,8 @@ import torch
 import triton
 ```
 
+Unless mentioned otherwise, use the datatype FP16 for both input matrices and accumulate in FP32.
+
 ---
 
 ## Task 1: FP32 vs FP16 Performance
