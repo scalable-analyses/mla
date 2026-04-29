@@ -19,6 +19,9 @@ Assignments
    * - 03
      - Matrix Multiplication on GPU
      - 04/27
+   * - 04
+     - Tensor Contractions on GPUs
+     - 05/04
 
 
 ----
