@@ -22,6 +22,10 @@ Assignments
    * - 04
      - Tensor Contractions on GPUs
      - 05/04
+   * - 05
+     - Tensor Contractions on GPUs
+     - 05/11
+     - Contraction Interface and L2 Optimization
 
 
 ----
