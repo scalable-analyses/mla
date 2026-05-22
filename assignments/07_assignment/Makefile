@@ -35,7 +35,7 @@ build/vadd.o: src/vadd.cpp | build/
 obj_custom_vadd: build/custom_vadd.o
 
 build/custom_vadd.o: src/custom_vadd.s | build/
-	$(PEANO_CC) $(KERNEL_FLAGS)-c $< -o $@
+	$(PEANO_CC) $(KERNEL_FLAGS) -c $< -o $@
 
 # ── xclbin targets ────────────────────────────────────────────────────────────
 
